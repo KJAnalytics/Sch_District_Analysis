@@ -1,2 +1,3 @@
-# Sch_District_Analysis
-Anapyterlysis of school district student testing scores using Python and Jupyter
+# School_District_Analysis
+Analysis of school district student testing scores using Anaconda, Jupyter, Python 
+
